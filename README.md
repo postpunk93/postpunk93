@@ -11,7 +11,7 @@
 
 | Проект | Что делает | Стек |
 |---|---|---|
-| [job-hunter](https://github.com/postpunk93/vacancy-hunter) | Ищет вакансии на четырёх площадках, скачивает тексты, оценивает их по профилю и ведёт воронку откликов — целиком в диалоге с Claude Code | Python, SQLite, Claude Code |
+| [vacancy-hunter](https://github.com/postpunk93/vacancy-hunter) | Ищет вакансии на четырёх площадках, скачивает тексты, оценивает их по профилю и ведёт воронку откликов — целиком в диалоге с Claude Code | Python, SQLite, Claude Code |
 | [article-layout](https://github.com/postpunk93/article-layout) | Раскладывает готовую статью черновиками на восемь площадок: Хабр, VC, DTF, Пикабу, Дзен и другие. Публикует человек, инструмент только готовит | Python, Playwright, Claude Code |
 | [video-factory](https://github.com/postpunk93/video-factory) | Черновой монтаж YouTube-интервью: расшифровка с диаризацией, поиск реплик сценария, резка по тишине, готовый таймлайн для DaVinci | Python, WhisperX, ffmpeg |
 
